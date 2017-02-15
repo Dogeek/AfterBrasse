@@ -1,87 +1,127 @@
 <ItemPools>
 	<Pool Name="treasure">
-		<!--Cricket'sPaw-->
-		<Item Name="" Id="511" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
-		<!--MoneyIsLuck-->
-		<Item Name=""Id="512" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
-		<!--Beer-->
-		<Item Name=""Id="513" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
-		<!--Brave Shoe-->
-		<Item Name=""Id="514" DecreaseBy="1" RemoveOn="0.1" Weight="1" />
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
-	<Pool Name="shop">
-		<!---->
+	<Pool Name="treasure">
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="boss">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="devil">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="angel">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="secret">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="library">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="challenge">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="goldenChest">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="redChest">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="beggar">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="demonBeggar">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="curse">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="keyMaster">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="bossrush">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="dungeon">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="greedTreasure">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="greedBoss">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="greedShop">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="greedCurse">
-		<!---->
-	</Pool>
-	<Pool Name="greedDevil">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="greedAngel">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="greedLibrary">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="greedSecret">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="greedGoldenChest">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 	<Pool Name="bombBum">
-		<!---->
+		<Item DecreaseBy="1" name="Test Active" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Familiar" RemoveOn="0.1" Weight="999" />
+		<Item DecreaseBy="1" name="Test Passive" RemoveOn="0.1" Weight="999" />
 	</Pool>
 </ItemPools>
